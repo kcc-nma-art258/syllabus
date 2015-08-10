@@ -299,3 +299,10 @@ Final Assignment due with presentations
 - [Git](https://www.codecademy.com/courses/learn-the-command-line)
 - [Make a website](https://www.codecademy.com/skills/make-a-website)
 - [Make an interactive website](https://www.codecademy.com/skills/make-an-interactive-website)
+
+## Resources
+
+## License
+[![License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work and all other materials under [https://github.com/kcc-nma-art258/](https://github.com/kcc-nma-art258/) are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
