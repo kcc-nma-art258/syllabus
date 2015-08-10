@@ -180,17 +180,11 @@ Students will go through the full development process of planning, prototyping, 
 #### Week 1: Introduction
 
 - Introduction to course
-- New concepts & tools
-  - Version control using Git & Github
-  - CSS authoring (preprocessing) using Sass
-  - CSS frameworks from scratch
-  - Prototyping using HTML/CSS (and jQuery)
-  - Websites versus web applications
-  - JavaScript web development
-- Review of HTML/CSS web development concepts
+- Introduction to version control (Git/Github)
+- Review of basic HTML/CSS web development concepts:
   - Grid / Layout
   - CSS Positioning
-- Web components
+  - Web components
 
 #### Week 2: CSS Preprocessing (Sass)
 
