@@ -1,289 +1,300 @@
-ART 258 : Interface Programming II
-KCC New Media Arts
-Kopiko 202 T/R : 10:45 AM - 1:15 PM
-Office/Hours TBD on Laulima
-Instructor: Mike King
-Email: mjking@hawaii.edu
+# Interface Programming II
+- **Course:** ART 258 | Kapiolani Community College, New Media Arts
+- **Class:** Kopiko 202 T/R: 10:45am–1:15pm
+- **Instructor:** Mike King,  [mjking@hawaii.edu](mailto: mjking@hawaii.edu)
+- **Need help?**
+  - [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kcc-nma-art258?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+  - *It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.*
+  - Look through and create issues for projects
+
+## Table of Contents
+
+- [Course Info](#course-info)
+- [Course Objectives](#course-objectives)
+- [Course Content](#course-content)
+- [Texts](#texts)
+- [Materials](#materials)
+- [Method of Instruction](#method-of-instruction)
+- [Method of Evaluation](#method-of-evaluation)
+- [Instructor’s Expectations & Student Responsibilities](#instructors-expectations-&-student-responsibilities)
+- [Instructor’s Absence](#instructors-absence)
+- [Attendance](#attendance)
+- [Grading Policy](#grading-policy)
+- [Important KCC Campus Dates](#important-kcc-campus-dates)
+- [Grading System](#grading-system)
+- [Special Student Services (SSSO)](#special-student-services-(ssso))
+- [Student Conduct Code](#student-conduct-code)
+- [This Class is a “Safe Zone”](#this-class-is-a-“safe-zone”)
+- [Schedule](#schedule)
+  - [Week 1: Introduction](#week-1-introduction)
+  - [Week 2: CSS Preprocessing (Sass)](#week-2-css-preprocessing-(sass))
+  - [Week 3: CSS Architecture & Frameworks ](#week-3-css-architecture-and-frameworks)
+  - [Week 4: HTML Prototyping](#week-4-html-prototyping)
+  - [Week 5: Marketing Websites](#week-5-marketing-websites)
+  - [Week 6-7: Studio (Midterm Project)](#week-6–7-studio-(midterm-project))
+  - [Week 8: Midterm Assignment Due](#week-8-midterm-assignment-due)
+  - [Week 9: JavaScript Part 1](#week-9-javascript-part-1)
+  - [Week 10: JavaScript Part 2](#week-10-javascript-part-2)
+  - [Week 11: JavaScript Part 3](#week-11-javascript-part-3)
+  - [Week 12: Digital Products / Web Applications](#week-12-digital-products-web-applications)
+  - [Week 13–15: Studio (Final Project)](#week-13–15-studio-(final-project))
+  - [Week 16: Launch](#week-16-launch)
+  - [Week 17: Finals Week (No Class)](#week-17-finals-week-(no-class))
+
+## Course Info
+
+- **ART 258 Interface Programming II (3 credits)**
+- 6 hours lecture/lab per week
+
+*Prerequisite:
+[ART 128](https://www.sis.hawaii.edu/uhdad/bwckctlg.p_disp_course_detail?cat_term_in=201530&inst_in=KAP&subj_code_in=ART&crse_numb_in=128) with a grade of “C” or higher; approval of the Interface Programming II portfolio review or acceptance into a NMA-AS specialization.*
 
 
-
-Contents
+ART 258 Interface Programming II builds upon the foundation level HTML, CSS, and Javascript concepts introduced in ART 128 Interface Programming I.
 
-Course Information
-Prerequisites
-Course Description
-Course Objectives
-Course Content
-Texts
-Materials
-Method of Instruction
-Method of Evaluation
-Instructor’s Expectations & Student Responsibilities
-Instructor’s Absence
-Attendance
-Grading Policy
-Important KCC Campus Dates
-Grading System
-Special Student Services (SSSO)
-Student Conduct Code
-This Class is a “Safe Zone”
-Schedules
-Final Project
-WEEK 1 - INTRODUCTION
-WEEK 2 - WIREFRAMING
-WEEK 3 - HTML
-WEEK 4 - WIREFRAMING
-WEEK 5 - HTML
-WEEK 6 - PRODUCTION
-WEEK 7 - PRODUCTION
-WEEK 8 - MIDTERM ASSIGNMENT DUE
-WEEK 9 - CONTENT STRATEGY
-WEEK 10 - BRANDING & IDENTITY
-WEEK 11 - 12 - INFOGRAPHIC DESIGN
-WEEK 13 - 15 - PRODUCTION
-WEEK 16 - LAUNCH
-WEEK 17 - FINALS WEEK (NO CLASS)
+Through lessons, demonstrations, and hands-on-exercise, this course aims to develop intermediate skills in contemporary interface programming practices. Weekly topics will address emerging and popular interface programming techniques and technologies.
 
+## Course Objectives
+**Upon successful completion of ART 258, the student should be able to:**
+- Apply intermediate level and advanced concepts and principles of interface programming in the creation of interactive interfaces and applications.
+- Utilize emerging and contemporary markup, styling, and scripting technologies to create effective interactive client-based interfaces.
+- Apply knowledge of the theory, history, and principles of interface design in the creation of new media art.
+- Apply successful problem-solving skills utilizing industry standard applications, vocabulary, technologies, and techniques in the creative and technical production process.
+- Communicate effectively, both visually and verbally, by presenting work, defending design decisions, and by participating as an active credit during group critiques.
+- Synthesize the concepts and principles of interface programming with emergent technologies in the creation of interactive interfaces that integrate conceptual thinking, technical execution, and aesthetic application.
+- Demonstrate professional communication within a team by working together to achieve solutions that best fit a magnitude of problems
 
+## Course Content
 
+### Interface Coding (HTML/CSS): 20%
+- Development of graphically unified page and website design demonstrating the design principles of balance, rhythm, emphasis, contrast, variation, repetition, and unity
+- Evaluation of successful usage of web standards and CSS
+- Exploration of intermediate-advanced HTML and CSS techniques
+  - Understanding of responsive web design and development techniques
+  - Exploration of typographic characteristics using CSS in web design
+  - Exploration of time-based design using CSS animations
 
-Course Information
-ART 258 Interface Programming II (3 credits)
-6 hours lecture/lab per week
+### Interactive Programming (JavaScript): 40%
+- Understand the role and necessity for JavaScript within the web design process and its relationship to other web technologies (HTML/CSS)
+- Analyze samples of interactive HTML5 (JavaScript-based) web applications on the Internet
+- Demonstrate the ability to research topics in interactive programming and be able to analyze and apply basic computer programming techniques using JavaScript
+- Explain accessibility, cross-platform, and browser related issues with regard to JavaScript
+- Analyze the possibilities and limitations of JavaScript (client/server)
+- Learn basic JavaScript techniques by creating small interactive web components
+- Learn the different methods for manipulating and displaying multimedia content (text,
+image, and sound) in JavaScript
+- Implement a fully-featured, interactive web application using HTML/CSS/JavaScript.
 
-Prerequisites
-ART 128 with a grade of “C” or higher; approval of the Interface Programming II portfolio review or acceptance into a NMA AS specialization.
-
-Course Description
-ART 258 Interface Programming II builds upon the foundation level HTML, CSS, and Javascript concepts introduced in ART 128 Interface Programming I. Through lessons, demonstrations, and hands-on-exercise, this course aims to develop intermediate skills in contemporary interface programming practices. Weekly topics will address emerging and popular interface programming techniques and technologies.
-
-Course assignments and grading policy may change at any time. This is a structure I hope to follow throughout the semester.
-
-Course Objectives
-Upon successful completion of ART 258, the student should be able to:
-Apply intermediate level and advanced concepts and principles of interface programming in the creation of interactive interfaces and applications.
-Utilize emerging and contemporary markup, styling, and scripting technologies to create effective interactive client-based interfaces.
-Apply knowledge of the theory, history, and principles of interface design in the creation of new media art.
-Apply successful problem-solving skills utilizing industry standard applications, vocabulary, technologies, and techniques in the creative and technical production process.
-Communicate effectively, both visually and verbally, by presenting work, defending design decisions, and by participating as an active credit during group critiques.
-Synthesize the concepts and principles of interface programming with emergent technologies in the creation of interactive interfaces that integrate conceptual thinking, technical execution, and aesthetic application.
-Demonstrate professional communication within a team by working together to achieve solutions that best fit a magnitude of problems
+### Intermediate Front-end Web Development Techniques: 40%
+- Development using version control and basic understanding of build processes
+- CSS authoring using Sass preprocessing
+- Understanding of CSS frameworks
+- Prototyping / Agile development techniques
+- Preparation of graphics optimized for website display on cross-platforms
+- Analysis and demonstration of accessibility, cross-platform and browser related issues with regard to web standards and CSS
 
 
-
-
-
-Course Content
-
-INTERFACE PROGRAMMING WITH HTML & CSS
-20%
-Evaluation of successful usage of web standards and CSS
-Exploration of user experience design and interface design using an agile approach
-Development of graphically unified page and website design demonstrating the design principles of balance, rhythm, emphasis, contrast, variation, repetition, and unity
-Exploration of  intermediate-advanced HTML and CSS techniques
-Exploration of typographic characteristics using CSS in web design
-
-INTERACTIVE PROGRAMMING WITH JAVASCRIPT
-40%
-
-Design an interface based on the device used to access your website
-
-PAGE AND SITE DEVELOPMENT TECHNIQUES
-40%
-General guidelines and best practices used for SEO
-Define site structure and wireframe schematics
-Creation of information structures and comprehensive information hierarchies
-Preparation of grids, table structures and layers for visual control of site elements
-Preparation of graphics optimized for website display on cross-platforms
-Analysis and demonstration of accessibility, cross-platform and browser related issues with regard to web standards and CSS
-
-
-Texts
+## Texts
 There are no required texts for this course. Readings will be supplied by the instructor and/or student(s) on a week to week basis, in either paper handout form or online.
 
-Materials
-The primary software packages used in this class are Adobe Photoshop and Dreamweaver, which will be installed on all computers in class and in the labs. Students are welcome to other types of software such as Adobe Fireworks, Sublime (not provided) or Textmate (not provided).
+## Materials
+The primary software packages used in this class are [Git](https://git-scm.com/)/[Github for Mac](https://mac.github.com/) and [Atom](https://atom.io/), which will be installed on all computers in class and in the labs. Students will be required to use design software as part of assignments, so use of Adobe design products (Photoshop/Illustrator/Fireworks) is expected. Students are welcome to other types of software such as Bohemian Coding Sketch,  Sublime Text, or Textmate (not provided).
 
-All students are required to have hosting space to post their designs, assignments, and ultimately their final website.
+All students are required to register for a [free Github account](https://github.com/join) to host their assignments, mid-term, and final website.
 
-In addition to producing digital designs, students will be required to submit sketches on paper. While it is not required, it is recommended that you purchase a cheap sketchbook and a set of black and/or grayscale markers.
+While it is not required, it is recommended that you purchase a cheap sketchbook and a set of black and/or grayscale markers for initial sketching and ideation.
 
-Additional materials may include backup media (such as external hard drives, blank CD/DVD’s, or a USB flash drive), an online file storage solution (DropBox, GitHub, etc.) and printer paper.
+Additionally, backup media (such as external hard drives or a USB flash drive) or an online file storage solution (Google Drive or DropBox) is recommended.
 
-Method of Instruction
+## Method of Instruction
 The method of instruction will include lectures, studio demonstrations, project development, individual instruction, group discussions, and critiques. Examples are presented when important to describe course content. Class projects and procedures are the focus of many course discussions.
 
-Method of Evaluation
-A. PROJECT ASSIGNMENTS								80%
-Clarity of Conceptual Understanding							40%
+## Method of Evaluation
+### A. Project Assignments: 80%
+#### Clarity of Conceptual Understanding:							40%
 Students will demonstrate their conceptual understanding of project assignments by creating preliminary sketches and drawings and by meeting each projects technical specifications. Students may also be asked to show their understanding by submitting clearly written, well-conceptualized statements, and by showing strong group communication skills during critiques.
 
-Quality of Execution of Assignments							40%
+#### Quality of Execution of Assignments: 40%
 Each student will be expected to create resources (sketches, creative briefs, coded interfaces, digital designs, etc.) based on project guidelines. Additionally, they will complete tutorials and projects that demonstrate their ability to execute specific software and coding techniques. The quality of these techniques and materials will be assessed in the final grade evaluation based on the successful application of the technology in working interactive models.
 
-B. PARTICIPATION/ATTENDANCE							20%
+### B. Participation & Attendance: 20%
 Students will be expected to participate as active class members. This includes attending classes; meeting all project deadlines; completing production time outside of class in the lab environment; and participating as dependable team members. During critiques, students are expected to participate as both presenters and active critics.
 
-Instructor’s Expectations & Student Responsibilities
+## Instructor’s Expectations & Student Responsibilities
 Lectures, demonstrations and general class participation are an important aspect of this course. For all instructional activities, students are responsible for meeting all of the instructor’s attendance and assignment requirements. Failure to do so may affect their final grade. For unexcused absences, students need to make arrangements with other class members regarding information. Since this is a college course, time outside of class will need to be consistently spent on projects to meet the requirements of the class.
 
 In all college-related activities, including instruction, students must abide by the college’s codes and regulations, refraining from behavior that interferes with the rights and safety of others in the learning environment. If students file a grievance, they are fully responsible for providing proof they have been wronged.
 
 Please have your cell phone on silent during class and provide your own headphones if you will be listening to music so you do not distract others.
 
-Instructor’s Absence
+## Instructor’s Absence
 In the event of the instructor’s absence, college policy requires students to wait 15 minutes before leaving.
 
-Attendance
+## Attendance
 Each student is responsible for the material presented in class, therefore regular attendance is expected. In order to keep up with all lessons and the general pace of the class it is essential that you arriving promptly and remain for the scheduled class period. Leaving class early without permission will result in an absence marked for that class period. Three tardies will equal one unexcused absence. Consistent lateness and absences may result in a lower grade for the semester due to any missed opportunities for graded class participation sessions during class critiques. If you are absent for medical reasons, please provide a note from your doctor or nurse. If there is a severe family problem, a long-term personal illness, or something else that may interfere with the course, please discuss this with me as early as possible. So long as I know about any potential problems in advance, there is usually a solution. Please do not wait until it is too late so as to avoid any repercussions to your grade.
 
-Grading Policy
+## Grading Policy
 Grading is based on assignments, projects, and class participation during critiques. It is the responsibility of the student to collect handouts, take notes, complete and turn in assignments on due dates. Make-up assignments will be administered only in cases where there is a valid medical reason accompanied by a doctor’s note. The assigned projects must be turned in on the due date. Missing a deadline will result in a full letter grade reduction for that project unless there is a valid medical reason or a family emergency. Projects may be revised and turned in again for re-grading. Class participation will be considered in the evaluation of the final grade. Disruptive or argumentative behavior will result in a lower grade during final grade evaluation or dismissal from class.
 
 Note: Any student missing the final semester critique or not turning in a final project without prior permission will have a full letter grade taken off the final semester grade.
-
-
 
-Important KCC Campus Dates
-FRIDAY, AUGUST 24
-Last day to drop classes with 100% tuition refund.
+## Important Campus Dates
+Please visit the [KCC Academic Calendar](http://www.kapiolani.hawaii.edu/admissions/academic-calendar/) for more information.
 
-MONDAY, SEPTEMBER 10
-Last day to drop classes with 50% tuition refund.
-
-MONDAY, OCTOBER 29
-Last day to withdraw from class or change grade option.
-
-Please visit http://kcc.hawaii.edu/page/acadcalendar for more information.
-
-Grading System
+## Grading System
 All projects are worth 100 points each.
-A	90 - 100
-B	80 - 89
-C	70 - 79
-D	60 - 69
-F	0 - 59
+- **A** (90–100)
+- **B** (80–89)
+- **C** (70–79)
+- **D** (60–69)
+- **F** (0–59)
 
-Special Student Services (SSSO)
-If you are a student with a documented disability and have not voluntarily disclosed the nature of your disability and the support you need,  you are invited to contact the Disability Support Services Office, `Iliahi 113, 734-9552 , or email kapdss@hawaii.edu for assistance.
+## Special Student Services (SSSO)
+If you are a student with a documented disability and have not voluntarily disclosed the nature of your disability and the support you need,  you are invited to contact the Disability Support Services Office, `Iliahi 113, 734-9552 , or email [kapdss@hawaii.edu](mailto:kapdss@hawaii.edu) for assistance.
 
-Extended time in a minimal distraction environment is an appropriate accommodation based on a student's disability. If you do have a disability and have not voluntarily disclosed the nature of your disability and support that you, you are invited to contact the Disability Support Services Office,(DSSO) 734-9552 (V/TTY), Ilima 103 for assistance.
+Extended time in a minimal distraction environment is an appropriate accommodation based on a student's disability. If you do have a disability and have not voluntarily disclosed the nature of your disability and support that you, you are invited to contact the Disability Support Services Office, (DSSO) 734-9552 (V/TTY), Ilima 103 for assistance.
 
-Student Conduct Code
+## Student Conduct Code
 A college campus is a community with specific behavior expectations designed to allow all students, faculty, and staff to flourish. Please familiarize yourself with KCC’s Student Conduct Code in the course catalog. You should know your rights and responsibilities on campus. The Student Conduct Code describes specific campus policies related to: drug and alcohol use, smoking, lethal weapons, sexual harassment and sexual assault, academic honesty, nondiscrimination, and family privacy.
 
-In all campus environments, Disruptive Behavior will not be tolerated. This means: any speech or action that (1) is disrespectful, offensive, and/or threatening; (2) interferes with the learning activities of other students; (3) impedes the delivery of college services; and/or (4) has a negative impact in any learning environment.
+In all campus environments, Disruptive Behavior will not be tolerated. This means: any speech or action that **(1)** is disrespectful, offensive, and/or threatening; **(2)** interferes with the learning activities of other students; **(3)** impedes the delivery of college services; and/or **(4)** has a negative impact in any learning environment.
 
 The instructor reserves the right to ask a student to leave the classroom at any point if a student exhibits behavior that is not in accordance with the KCC Student Conduct Code.
 
-This Class is a “Safe Zone”
+## This Class is a “Safe Zone”
 Discriminatory or rude comments of any kind, particularly regarding gender, ethnicity, sexual orientation, or religion, will not be tolerated.
 
 
 
-Schedule
-Final Project
-Students will go through the full development process of planning, prototyping, and building one working web application throughout the second half of the semester which will be presented as their final project. A collection of data over the first half of the semester will help determine what their project final will be (TBD).
+## Schedule
+### Midterm Project
+Students will be learning the basics of responsive web design by completing weekly exercises using a template design
+provided by the instructor. For the midterm, students will customize, or “reskin,” this template into a custom designed, responsive web site.
 
-WEEK 1 - INTRODUCTION
+### Final Project
+Students will go through the full development process of planning, prototyping, and building one working web application throughout the second half of the semester.
 
-Topics Covered:
-Introduction to course
-New concepts & tools
-Version control using Git & Github
-CSS authoring (preprocessing) using Sass
-CSS frameworks from scratch
-Prototyping using HTML/CSS (and jQuery)
-Websites versus web applications
-JavaScript web development
-Review of HTML/CSS web development concepts
-Grid / Layout
-CSS Positioning
-Web components
+### Weekly Schedule
 
-WEEK 2 - SASS
+#### Week 1: Introduction
 
-Topics Covered:
-Introduction to Sass
-Variables
-Nesting
-Partials / Import
- Mixins
-Extend / Inheritance
-Operators
+- Introduction to course
+- New concepts & tools
+  - Version control using Git & Github
+  - CSS authoring (preprocessing) using Sass
+  - CSS frameworks from scratch
+  - Prototyping using HTML/CSS (and jQuery)
+  - Websites versus web applications
+  - JavaScript web development
+- Review of HTML/CSS web development concepts
+  - Grid / Layout
+  - CSS Positioning
+- Web components
 
-WEEK 3 - CSS Framework
+#### Week 2: CSS Preprocessing (Sass)
 
-Topics Covered:
-Building a grid framework
+- Introduction to Sass
+  - Variables
+  - Nesting
+  - Partials / Import
+  - Mixins
+  - Extend / Inheritance
+  - Operators
 
-WEEK 4 - Prototyping
+#### Week 3: CSS Architecture & Frameworks
 
-Topics Covered:
-Responsive layouts
-CSS Media queries
-Content strategy
+- Introduction to CSS architecture
+- Developing custom CSS framework
+  - Grids
+    - Responsive web design (**#RWD**)
+    - CSS media queries
+  - Utility classes
+  - Buttons / Call-to-actions
 
-WEEK 5 - HTML
+#### Week 4: HTML Prototyping
 
-Topics Covered:
-Continue work on HTML
-Midterm announced
-Rework branding to your choice
-Additional content
-Review wireframes
+- Introduction to interaction design & prototyping
+- Usability/Quality Assurance (QA) testing
 
-WEEK 6 - PRODUCTION
+#### Week 5: Marketing Websites
 
-Topics Covered:
-CSS3
-jQuery (?)
+- **Midterm project announced:**
+  - Responsive website
+- Enhancing prototype UI/UX
 
-WEEK 7 - PRODUCTION
+#### Week 6–7: Studio (Midterm Project)
 
-Topics Covered:
-Work week
+- Studio time to work on midterm
+- Additional Class Exercises:
+  - CSS Animations & Transitions
+  - Scalable Vector Graphics (SVG)
 
-WEEK 8 - MIDTERM ASSIGNMENT DUE
+#### Week 8: Midterm Assignment Due
 
-Topics Covered:
-Introduce final project
+- **Final project announced:**
+  - Interactive web application
 
-WEEK 9 - CONTENT STRATEGY
+#### Week 9: JavaScript Part 1
 
-Topics Covered:
-Content for website
-Wireframe
+- Introduction to programming using JavaScript
+  - Browser developer console
+  - Operations
+  - Variables
+  - Data Types/Structures (Objects/Arrays)
 
-WEEK 10 - BRANDING & IDENTITY
+#### Week 10: JavaScript Part 2
 
-Topics Covered:
-Creating a logo
-Identify fonts, color schemes, etc.
+- Functions
+- Conditionals (If/Else)
+- Loops (For/While)
 
-WEEK 11 - 12 - INFOGRAPHIC DESIGN
+#### Week 11: JavaScript Part 3
 
-No Class 11/6/2012
-Topics Covered:
-Designing in Photoshop
-Examples of infographics
+- Document Object Model (DOM)
+- Events
+- Storage
 
-WEEK 13 - 15 - PRODUCTION
+#### Week 12: Digital Products / Web Applications
 
-No Class 11/22/2012
-Topics Covered:
-Work week
+- Creating basic, interactive products:
+  - "Rock, Paper, Scissors" game
+  - Recipe list manager app
+  - Drum machine music player
 
-WEEK 16 - LAUNCH
+#### Week 13–15: Studio (Final Project)
+
+**No Class: Thursday, November 26**
+- Studio time to work on final
+- Additional Exercises:
+  - JavaScript Animations
+  - JavaScript MV* Frameworks
+  - NodeJS (Server-side JavaScript)
+
+#### Week 16: Launch
 
 Final Assignment due with presentations
 
-WEEK 17 - FINALS WEEK (NO CLASS)
+#### Week 17: Finals Week (No Class)
 
-Extra Credit (TBD)
-Revisions
+## Extra Credit
+### CodeSchool
+[www.codeschool.com](https://www.codeschool.com)
 
+#### Free Single Courses
+- [Git](https://www.codeschool.com/courses/try-git)
+- [JavaScript](https://www.codeschool.com/courses/javascript-road-trip-part-1)
+- [jQuery](https://www.codeschool.com/courses/try-jquery)
+- [Devtools](https://www.codeschool.com/courses/discover-devtools)
 
-What works good is better than what looks good.
-Because what works good lasts.
-Ray Eames
+### Codecademy
+[www.codecademy.com](https://www.codecademy.com/learn)
+
+#### Core Language
+- [HTML/CSS](https://www.codecademy.com/en/tracks/web)
+- [JavaScript](https://www.codecademy.com/en/tracks/javascript)
+
+#### Web Developer Skills
+
+- [Git](https://www.codecademy.com/courses/learn-the-command-line)
+- [Make a website](https://www.codecademy.com/skills/make-a-website)
+- [Make an interactive website](https://www.codecademy.com/skills/make-an-interactive-website)
