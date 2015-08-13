@@ -177,10 +177,10 @@ Students will go through the full development process of planning, prototyping, 
 
 ### Weekly Schedule
 
-#### Week 1: Introduction
+#### Week 1: Introduction to Course & Front-end Tooling
 
 - Introduction to course
-- Introduction to version control (Git/Github)
+- Introduction to new development tools & concepts
 - Review of basic HTML/CSS web development concepts:
   - Grid / Layout
   - CSS Positioning
