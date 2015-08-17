@@ -26,20 +26,19 @@
 - [Student Conduct Code](#student-conduct-code)
 - [This Class is a “Safe Zone”](#this-class-is-a-safe-zone)
 - [Schedule](#schedule)
-  - [Week 1: Introduction](#week-1-introduction)
-  - [Week 2: CSS Preprocessing (Sass)](#week-2-css-preprocessing-sass)
+  - [Week 1: Intro to Course & Front-end Tools](#week-1-intro-to-course--front-end-tools)
+  - [Week 2: CSS Authoring (Sass)](#week-2-css-authoring-sass)
   - [Week 3: CSS Architecture & Frameworks ](#week-3-css-architecture--frameworks)
   - [Week 4: HTML Prototyping](#week-4-html-prototyping)
   - [Week 5: Marketing Websites](#week-5-marketing-websites)
   - [Week 6-7: Studio (Midterm Project)](#week-6–7-studio-midterm-project)
-  - [Week 8: Midterm Assignment Due](#week-8-midterm-assignment-due)
+  - [Week 8: Midterm Due & Critique](#week-8-midterm-due--critique)
   - [Week 9: JavaScript Part 1](#week-9-javascript-part-1)
   - [Week 10: JavaScript Part 2](#week-10-javascript-part-2)
   - [Week 11: JavaScript Part 3](#week-11-javascript-part-3)
   - [Week 12: Digital Products / Web Applications](#week-12-digital-products--web-applications)
-  - [Week 13–15: Studio (Final Project)](#week-13–15-studio-final-project)
-  - [Week 16: Launch](#week-16-launch)
-  - [Week 17: Finals Week (No Class)](#week-17-finals-week-no-class)
+  - [Week 13–16: Studio (Final Project)](#week-13–16-studio-final-project)
+  - [Week 17: Final Due & Critique](#week-17-final-due--critique)
 - [Extra Credit](#extra-credit)
 
 ## Course Info
@@ -185,7 +184,7 @@ Students will go through the full development process of planning, prototyping, 
 
 ### Weekly Schedule
 
-#### Week 1: Introduction to Course & Front-end Tooling
+#### Week 1: Intro to Course & Front-end Tools
 
 - Introduction to course
 - Introduction to new development tools & concepts
@@ -194,7 +193,7 @@ Students will go through the full development process of planning, prototyping, 
   - CSS Positioning
   - Web components
 
-#### Week 2: CSS Preprocessing (Sass)
+#### Week 2: CSS Authoring (Sass)
 
 - Introduction to Sass
   - Variables
@@ -261,10 +260,10 @@ Students will go through the full development process of planning, prototyping, 
 
 - Creating basic, interactive products:
   - "Rock, Paper, Scissors" game
-  - Recipe list manager app
   - Drum machine music player
+  - Recipe list manager app
 
-#### Week 13–15: Studio (Final Project)
+#### Week 13–16: Studio (Final Project)
 
 **No Class: Thursday, November 26**
 - Studio time to work on final
@@ -273,11 +272,9 @@ Students will go through the full development process of planning, prototyping, 
   - JavaScript MV* Frameworks
   - NodeJS (Server-side JavaScript)
 
-#### Week 16: Launch
+#### Week 17: Finals Due & Critique
 
-Final Assignment due with presentations
-
-#### Week 17: Finals Week (No Class)
+Final projects due with presentations and critique
 
 ## Extra Credit
 ### CodeSchool
