@@ -31,13 +31,13 @@
   - [Week 3: CSS Architecture & Frameworks ](#week-3-css-architecture--frameworks)
   - [Week 4: HTML Prototyping](#week-4-html-prototyping)
   - [Week 5: Marketing Websites](#week-5-marketing-websites)
-  - [Week 6-7: Studio (Midterm Project)](#week-6–7-studio-midterm-project)
+  - [Week 6-7: Studio (Midterm Project)](#week-67-studio-midterm-project)
   - [Week 8: Midterm Due & Critique](#week-8-midterm-due--critique)
   - [Week 9: JavaScript Part 1](#week-9-javascript-part-1)
   - [Week 10: JavaScript Part 2](#week-10-javascript-part-2)
   - [Week 11: JavaScript Part 3](#week-11-javascript-part-3)
   - [Week 12: Digital Products / Web Applications](#week-12-digital-products--web-applications)
-  - [Week 13–16: Studio (Final Project)](#week-13–16-studio-final-project)
+  - [Week 13–16: Studio (Final Project)](#week-1316-studio-final-project)
   - [Week 17: Final Due & Critique](#week-17-final-due--critique)
 - [Extra Credit](#extra-credit)
 
@@ -231,7 +231,7 @@ Students will go through the full development process of planning, prototyping, 
   - CSS Animations & Transitions
   - Scalable Vector Graphics (SVG)
 
-#### Week 8: Midterm Assignment Due
+#### Week 8: Midterm Due & Critique
 
 - **Final project announced:**
   - Interactive web application
@@ -272,7 +272,7 @@ Students will go through the full development process of planning, prototyping, 
   - JavaScript MV* Frameworks
   - NodeJS (Server-side JavaScript)
 
-#### Week 17: Finals Due & Critique
+#### Week 17: Final Due & Critique
 
 Final projects due with presentations and critique
 
