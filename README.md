@@ -67,7 +67,7 @@ Through lessons, demonstrations, and hands-on-exercise, this course aims to deve
 
 ## Course Content
 
-### Interface Coding (HTML/CSS): 20%
+### Interface Coding (HTML/CSS): 30%
 - Development of graphically unified page and website design demonstrating the design principles of balance, rhythm, emphasis, contrast, variation, repetition, and unity
 - Evaluation of successful usage of web standards and CSS
 - Exploration of intermediate-advanced HTML and CSS techniques
@@ -75,7 +75,7 @@ Through lessons, demonstrations, and hands-on-exercise, this course aims to deve
   - Exploration of typographic characteristics using CSS in web design
   - Exploration of time-based design using CSS animations
 
-### Interactive Programming (JavaScript): 40%
+### Interactive Programming (JavaScript): 30%
 - Understand the role and necessity for JavaScript within the web design process and its relationship to other web technologies (HTML/CSS)
 - Analyze samples of interactive HTML5 (JavaScript-based) web applications on the Internet
 - Demonstrate the ability to research topics in interactive programming and be able to analyze and apply basic computer programming techniques using JavaScript
@@ -87,23 +87,26 @@ image, and sound) in JavaScript
 - Implement a fully-featured, interactive web application using HTML/CSS/JavaScript.
 
 ### Intermediate Front-end Web Development Techniques: 40%
-- Development using version control and basic understanding of build processes
-- CSS authoring using Sass preprocessing
-- Understanding of CSS frameworks
+- A thorough understanding of version control, why its important and its usage through Git and GitHub
+- CSS authoring & architecture using Sass preprocessing
+- Understanding of how to create a CSS frameworks
 - Prototyping / Agile development techniques
-- Preparation of graphics optimized for website display on cross-platforms
-- Analysis and demonstration of accessibility, cross-platform and browser related issues with regard to web standards and CSS
-
+- Preparation of assets optimized for website display on cross-platforms through build processes
+- Analysis and demonstration of usability & accessibility, cross-platform and browser related issues with regard to web standards and CSS
 
 ## Texts
-There are no required texts for this course. Readings will be supplied by the instructor and/or student(s) on a week to week basis, in either paper handout form or online.
+There are no required texts for this course. Readings will be supplied by the instructor and/or student(s) on a week to week basis online.
 
 ## Materials
-The primary software packages used in this class are [Git](https://git-scm.com/)/[Github for Mac](https://mac.github.com/) and [Atom](https://atom.io/), which will be installed on all computers in class and in the labs. Students will be required to use design software as part of assignments, so use of Adobe design products (Photoshop/Illustrator/Fireworks) is expected. Students are welcome to other types of software such as Bohemian Coding Sketch,  Sublime Text, or Textmate (not provided).
+The primary software packages used in this class are [Github Desktop](https://desktop.github.com/), [Atom](https://atom.io/), [Prepros](https://prepros.io/), and [Google Chrome](https://www.google.com/chrome/), which will be installed on all computers in the KOA 103 class room. All of the listed development software is either free or provides a free trial with no time limit, so students working on personal computers can follow along without purchasing anything.
 
-All students are required to register for a [free Github account](https://github.com/join) to host their assignments, mid-term, and final website.
+Students will be required to use design software as part of assignments, so use of Adobe design products (Photoshop/Illustrator/Fireworks) is expected. Adobe Creative Cloud will be installed on all computers in the KOA 103 class room.
 
-While it is not required, it is recommended that you purchase a cheap sketchbook and a set of black and/or grayscale markers for initial sketching and ideation.
+Students are also welcome to use other types of design and development software (not provided) such as [Bohemian Coding Sketch](http://www.bohemiancoding.com/sketch/) ($99), [Google Web Designer](https://www.google.com/webdesigner/) (free), [Brackets](http://brackets.io/) (free), or [Sublime Text](http://www.sublimetext.com/) ($70).
+
+All students are required to register for a [free Github account](https://github.com/join) to host their assignments, mid-term, and final website. Students are also recommended to sign-up for a [free Codepen account](https://codepen.io/signup/free), as certain class exercises and examples will be showcased using this tool.
+
+While not required, it is recommended that you purchase a cheap sketchbook and a set of black and/or grayscale pencils/pens/markers for initial sketching and ideation.
 
 Additionally, backup media (such as external hard drives or a USB flash drive) or an online file storage solution (Google Drive or DropBox) is recommended.
 
@@ -111,6 +114,11 @@ Additionally, backup media (such as external hard drives or a USB flash drive) o
 The method of instruction will include lectures, studio demonstrations, project development, individual instruction, group discussions, and critiques. Examples are presented when important to describe course content. Class projects and procedures are the focus of many course discussions.
 
 ## Method of Evaluation
+
+While the content of this course will be focused on front-end web development, assignments and projects will be evaluated based on their visual presentation as well as their functionality.
+
+Students will be expected to create usable interfaces based on user-centered design techniques presented in this course, as well as creative branding and visual designs using the foundational principles taught in the pre-requisite courses for the New Media Arts—Interface Design specialization.
+
 ### A. Project Assignments: 80%
 #### Clarity of Conceptual Understanding:							40%
 Students will demonstrate their conceptual understanding of project assignments by creating preliminary sketches and drawings and by meeting each projects technical specifications. Students may also be asked to show their understanding by submitting clearly written, well-conceptualized statements, and by showing strong group communication skills during critiques.
