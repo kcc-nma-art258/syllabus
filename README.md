@@ -238,7 +238,7 @@ Students will go through the full development process of planning, prototyping, 
 
 #### Week 9: JavaScript Part 1
 
-- Introduction to programming using JavaScript
+- Introduction to web programming using JavaScript
   - Browser developer console
   - Operations
   - Variables
@@ -259,9 +259,9 @@ Students will go through the full development process of planning, prototyping, 
 #### Week 12: Digital Products / Web Applications
 
 - Creating basic, interactive products:
-  - "Rock, Paper, Scissors" game
-  - Drum machine music player
-  - Recipe list manager app
+  - Simple game app
+  - Audio player / digital instrument
+  - Productivity app
 
 #### Week 13–16: Studio (Final Project)
 
