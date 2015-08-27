@@ -7,39 +7,59 @@
   - *It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.*
   - Look through and create issues for projects
 
-## Table of Contents
-
+**Table of Contents**
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [Course Info](#course-info)
 - [Course Objectives](#course-objectives)
 - [Course Content](#course-content)
+  - [Interface Coding (HTML/CSS): 30%](#interface-coding-htmlcss-30%25)
+  - [Interactive Programming (JavaScript): 30%](#interactive-programming-javascript-30%25)
+  - [Intermediate Front-end Web Development Techniques: 40%](#intermediate-front-end-web-development-techniques-40%25)
 - [Texts](#texts)
 - [Materials](#materials)
 - [Method of Instruction](#method-of-instruction)
 - [Method of Evaluation](#method-of-evaluation)
-- [Instructor’s Expectations & Student Responsibilities](#instructors-expectations--student-responsibilities)
-- [Instructor’s Absence](#instructors-absence)
+  - [A. Project Assignments: 80%](#a-project-assignments-80%25)
+    - [Clarity of Conceptual Understanding:							40%](#clarity-of-conceptual-understanding%09%09%09%09%09%09%0940%25)
+    - [Quality of Execution of Assignments: 40%](#quality-of-execution-of-assignments-40%25)
+  - [B. Participation & Attendance: 20%](#b-participation--attendance-20%25)
+- [Instructor’s Expectations & Student Responsibilities](#instructor%E2%80%99s-expectations-&-student-responsibilities)
+- [Instructor’s Absence](#instructor%E2%80%99s-absence)
 - [Attendance](#attendance)
 - [Grading Policy](#grading-policy)
 - [Important Campus Dates](#important-campus-dates)
 - [Grading System](#grading-system)
 - [Special Student Services (SSSO)](#special-student-services-ssso)
 - [Student Conduct Code](#student-conduct-code)
-- [This Class is a “Safe Zone”](#this-class-is-a-safe-zone)
+- [This Class is a “Safe Zone”](#this-class-is-a-%E2%80%9Csafe-zone%E2%80%9D)
 - [Schedule](#schedule)
-  - [Week 1: Intro to Course & Front-end Tools](#week-1-intro-to-course--front-end-tools)
-  - [Week 2: CSS Authoring (Sass)](#week-2-css-authoring-sass)
-  - [Week 3: CSS Architecture & Frameworks ](#week-3-css-architecture--frameworks)
-  - [Week 4: HTML Prototyping](#week-4-html-prototyping)
-  - [Week 5: Marketing Websites](#week-5-marketing-websites)
-  - [Week 6-7: Studio (Midterm Project)](#week-67-studio-midterm-project)
-  - [Week 8: Midterm Due & Critique](#week-8-midterm-due--critique)
-  - [Week 9: JavaScript Part 1](#week-9-javascript-part-1)
-  - [Week 10: JavaScript Part 2](#week-10-javascript-part-2)
-  - [Week 11: JavaScript Part 3](#week-11-javascript-part-3)
-  - [Week 12: Digital Products / Web Applications](#week-12-digital-products--web-applications)
-  - [Week 13–16: Studio (Final Project)](#week-1316-studio-final-project)
-  - [Week 17: Final Due & Critique](#week-17-final-due--critique)
+  - [Midterm Project](#midterm-project)
+  - [Final Project](#final-project)
+  - [Weekly Schedule](#weekly-schedule)
+    - [Week 1: Intro to Course & Front-end Tools](#week-1-intro-to-course--front-end-tools)
+    - [Week 2: Review of Basic Web Development Techniques](#week-2-review-of-basic-web-development-techniques)
+    - [Week 3: CSS Authoring (Sass)](#week-3-css-authoring-sass)
+    - [Week 4: CSS Architecture & Frameworks](#week-4-css-architecture--frameworks)
+    - [Week 5: HTML Prototyping](#week-5-html-prototyping)
+    - [Week 6: Marketing Websites](#week-6-marketing-websites)
+    - [Week 7–8: Studio (Midterm Project)](#week-7%E2%80%938-studio-midterm-project)
+    - [Week 9: Midterm Due & Critique](#week-9-midterm-due--critique)
+    - [Week 10: JavaScript Part 1](#week-10-javascript-part-1)
+    - [Week 11: JavaScript Part 2](#week-11-javascript-part-2)
+    - [Week 12: JavaScript Part 3](#week-12-javascript-part-3)
+    - [Week 13: Digital Products / Web Applications](#week-13-digital-products--web-applications)
+    - [Week 14–16: Studio (Final Project)](#week-14%E2%80%9316-studio-final-project)
+    - [Week 17: Final Due & Critique](#week-17-final-due--critique)
 - [Extra Credit](#extra-credit)
+  - [CodeSchool](#codeschool)
+    - [Free Single Courses](#free-single-courses)
+  - [Codecademy](#codecademy)
+    - [Core Language](#core-language)
+    - [Web Developer Skills](#web-developer-skills)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Course Info
 
@@ -188,12 +208,15 @@ Students will go through the full development process of planning, prototyping, 
 
 - Introduction to course
 - Introduction to new development tools & concepts
+
+#### Week 2: Review of Basic Web Development Techniques
+
 - Review of basic HTML/CSS web development concepts:
   - Grid / Layout
   - CSS Positioning
   - Web components
 
-#### Week 2: CSS Authoring (Sass)
+#### Week 3: CSS Authoring (Sass)
 
 - Introduction to Sass
   - Variables
@@ -203,7 +226,7 @@ Students will go through the full development process of planning, prototyping, 
   - Extend / Inheritance
   - Operators
 
-#### Week 3: CSS Architecture & Frameworks
+#### Week 4: CSS Architecture & Frameworks
 
 - Introduction to CSS architecture
 - Developing custom CSS framework
@@ -213,30 +236,30 @@ Students will go through the full development process of planning, prototyping, 
   - Utility classes
   - Buttons / Call-to-actions
 
-#### Week 4: HTML Prototyping
+#### Week 5: HTML Prototyping
 
 - Introduction to interaction design & prototyping
 - Usability/Quality Assurance (QA) testing
 
-#### Week 5: Marketing Websites
+#### Week 6: Marketing Websites
 
 - **Midterm project announced:**
   - Responsive website
 - Enhancing prototype UI/UX
 
-#### Week 6–7: Studio (Midterm Project)
+#### Week 7–8: Studio (Midterm Project)
 
 - Studio time to work on midterm
 - Additional Class Exercises:
   - CSS Animations & Transitions
   - Scalable Vector Graphics (SVG)
 
-#### Week 8: Midterm Due & Critique
+#### Week 9: Midterm Due & Critique
 
 - **Final project announced:**
   - Interactive web application
 
-#### Week 9: JavaScript Part 1
+#### Week 10: JavaScript Part 1
 
 - Introduction to web programming using JavaScript
   - Browser developer console
@@ -244,26 +267,26 @@ Students will go through the full development process of planning, prototyping, 
   - Variables
   - Data Types/Structures (Objects/Arrays)
 
-#### Week 10: JavaScript Part 2
+#### Week 11: JavaScript Part 2
 
 - Functions
 - Conditionals (If/Else)
 - Loops (For/While)
 
-#### Week 11: JavaScript Part 3
+#### Week 12: JavaScript Part 3
 
 - Document Object Model (DOM)
 - Events
 - Storage
 
-#### Week 12: Digital Products / Web Applications
+#### Week 13: Digital Products / Web Applications
 
 - Creating basic, interactive products:
   - Simple game app
   - Audio player / digital instrument
   - Productivity app
 
-#### Week 13–16: Studio (Final Project)
+#### Week 14–16: Studio (Final Project)
 
 **No Class: Thursday, November 26**
 - Studio time to work on final
@@ -298,8 +321,6 @@ Final projects due with presentations and critique
 - [Git](https://www.codecademy.com/courses/learn-the-command-line)
 - [Make a website](https://www.codecademy.com/skills/make-a-website)
 - [Make an interactive website](https://www.codecademy.com/skills/make-an-interactive-website)
-
-## Resources
 
 ## License
 [![License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
