@@ -24,7 +24,7 @@
     - [Clarity of Conceptual Understanding:							40%](#clarity-of-conceptual-understanding%09%09%09%09%09%09%0940%25)
     - [Quality of Execution of Assignments: 40%](#quality-of-execution-of-assignments-40%25)
   - [B. Participation & Attendance: 20%](#b-participation--attendance-20%25)
-- [Instructor’s Expectations & Student Responsibilities](#instructor%E2%80%99s-expectations-&-student-responsibilities)
+- [Instructor’s Expectations & Student Responsibilities](#instructor%E2%80%99s-expectations--student-responsibilities)
 - [Instructor’s Absence](#instructor%E2%80%99s-absence)
 - [Attendance](#attendance)
 - [Grading Policy](#grading-policy)
@@ -39,9 +39,9 @@
   - [Weekly Schedule](#weekly-schedule)
     - [Week 1: Intro to Course & Front-end Tools](#week-1-intro-to-course--front-end-tools)
     - [Week 2: Review of Basic Web Development Techniques](#week-2-review-of-basic-web-development-techniques)
-    - [Week 3: CSS Authoring (Sass)](#week-3-css-authoring-sass)
-    - [Week 4: CSS Architecture & Frameworks](#week-4-css-architecture--frameworks)
-    - [Week 5: HTML Prototyping](#week-5-html-prototyping)
+    - [Week 3: Continue Review of Web Development Practices](#week-3-continue-review-of-web-development-practices)
+    - [Week 4: CSS Authoring (Sass)](#week-4-css-authoring-sass)
+    - [Week 5: CSS Architecture & Frameworks](#week-5-css-architecture--frameworks)
     - [Week 6: Marketing Websites](#week-6-marketing-websites)
     - [Week 7–8: Studio (Midterm Project)](#week-7%E2%80%938-studio-midterm-project)
     - [Week 9: Midterm Due & Critique](#week-9-midterm-due--critique)
@@ -214,9 +214,15 @@ Students will go through the full development process of planning, prototyping, 
 - Review of basic HTML/CSS web development concepts:
   - Grid / Layout
   - CSS Positioning
-  - Web components
 
-#### Week 3: CSS Authoring (Sass)
+#### Week 3: Continue Review of Web Development Practices
+
+- Review of intermediate web development concepts:
+  - Web components
+  - Web Typography
+  - Cleaning up of prototype
+
+#### Week 4: CSS Authoring (Sass)
 
 - Introduction to Sass
   - Variables
@@ -226,7 +232,7 @@ Students will go through the full development process of planning, prototyping, 
   - Extend / Inheritance
   - Operators
 
-#### Week 4: CSS Architecture & Frameworks
+#### Week 5: CSS Architecture & Frameworks
 
 - Introduction to CSS architecture
 - Developing custom CSS framework
@@ -235,11 +241,6 @@ Students will go through the full development process of planning, prototyping, 
     - CSS media queries
   - Utility classes
   - Buttons / Call-to-actions
-
-#### Week 5: HTML Prototyping
-
-- Introduction to interaction design & prototyping
-- Usability/Quality Assurance (QA) testing
 
 #### Week 6: Marketing Websites
 
