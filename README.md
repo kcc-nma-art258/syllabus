@@ -248,19 +248,16 @@ Students will go through the full development process of planning, prototyping, 
   - Responsive website
 - Enhancing prototype UI/UX
 
-#### Week 7–8: Studio (Midterm Project)
+#### Week 7–9: Studio (Midterm Project)
 
 - Studio time to work on midterm
-- Additional Class Exercises:
-  - CSS Animations & Transitions
-  - Scalable Vector Graphics (SVG)
 
-#### Week 9: Midterm Due & Critique
+#### Week 10: Midterm Due & Critique
 
 - **Final project announced:**
   - Interactive web application
 
-#### Week 10: JavaScript Part 1
+#### Week 11: JavaScript Part 1
 
 - Introduction to web programming using JavaScript
   - Browser developer console
@@ -268,33 +265,29 @@ Students will go through the full development process of planning, prototyping, 
   - Variables
   - Data Types/Structures (Objects/Arrays)
 
-#### Week 11: JavaScript Part 2
+#### Week 12: JavaScript Part 2
 
 - Functions
 - Conditionals (If/Else)
 - Loops (For/While)
 
-#### Week 12: JavaScript Part 3
+#### Week 13: JavaScript Part 3
 
 - Document Object Model (DOM)
 - Events
 - Storage
 
-#### Week 13: Digital Products / Web Applications
+#### Week 14: Digital Products / Web Applications
 
+**No Class: Thursday, November 26**
 - Creating basic, interactive products:
   - Simple game app
   - Audio player / digital instrument
   - Productivity app
 
-#### Week 14–16: Studio (Final Project)
+#### Week 15–16: Studio (Final Project)
 
-**No Class: Thursday, November 26**
 - Studio time to work on final
-- Additional Exercises:
-  - JavaScript Animations
-  - JavaScript MV* Frameworks
-  - NodeJS (Server-side JavaScript)
 
 #### Week 17: Final Due & Critique
 
