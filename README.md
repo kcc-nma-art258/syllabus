@@ -11,6 +11,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Course Info](#course-info)
 - [Course Objectives](#course-objectives)
 - [Course Content](#course-content)
@@ -52,7 +53,7 @@
     - [Week 14: Digital Products / Web Applications](#week-14-digital-products--web-applications)
     - [Week 15–16: Studio (Final Project)](#week-15%E2%80%9316-studio-final-project)
     - [Week 17: Final Due & Critique](#week-17-final-due-&-critique)
-- [Extra Credit](#extra-credit)
+- [Additional Educational Resources](#additional-educational-resources)
   - [CodeSchool](#codeschool)
     - [Free Single Courses](#free-single-courses)
   - [Codecademy](#codecademy)
@@ -294,7 +295,7 @@ Students will go through the full development process of planning, prototyping, 
 
 Final projects due with presentations and critique
 
-## Online Educational Resources
+## Additional Educational Resources
 ### CodeSchool
 [www.codeschool.com](https://www.codeschool.com)
 
