@@ -1,7 +1,7 @@
 # Interface Programming II
 - **Course:** ART 258 | Kapiolani Community College, New Media Arts
 - **Class:** KOA 103 T/R: 10:45am–1:15pm
-- **Instructor:** Mike King,  [mjking@hawaii.edu](mailto: mjking@hawaii.edu)
+- **Instructor:** Mike King, [mjking@hawaii.edu](mailto: mjking@hawaii.edu)
 - **Need help?**
   - [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kcc-nma-art258?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
   - *It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.*
@@ -10,6 +10,7 @@
 **Table of Contents**
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 - [Course Info](#course-info)
 - [Course Objectives](#course-objectives)
 - [Course Content](#course-content)
@@ -23,8 +24,8 @@
   - [A. Project Assignments: 80%](#a-project-assignments-80%25)
     - [Clarity of Conceptual Understanding:							40%](#clarity-of-conceptual-understanding%09%09%09%09%09%09%0940%25)
     - [Quality of Execution of Assignments: 40%](#quality-of-execution-of-assignments-40%25)
-  - [B. Participation & Attendance: 20%](#b-participation--attendance-20%25)
-- [Instructor’s Expectations & Student Responsibilities](#instructor%E2%80%99s-expectations--student-responsibilities)
+  - [B. Participation & Attendance: 20%](#b-participation-&-attendance-20%25)
+- [Instructor’s Expectations & Student Responsibilities](#instructor%E2%80%99s-expectations-&-student-responsibilities)
 - [Instructor’s Absence](#instructor%E2%80%99s-absence)
 - [Attendance](#attendance)
 - [Grading Policy](#grading-policy)
@@ -37,20 +38,20 @@
   - [Midterm Project](#midterm-project)
   - [Final Project](#final-project)
   - [Weekly Schedule](#weekly-schedule)
-    - [Week 1: Intro to Course & Front-end Tools](#week-1-intro-to-course--front-end-tools)
+    - [Week 1: Intro to Course & Front-end Tools](#week-1-intro-to-course-&-front-end-tools)
     - [Week 2: Review of Basic Web Development Techniques](#week-2-review-of-basic-web-development-techniques)
     - [Week 3: Continue Review of Web Development Practices](#week-3-continue-review-of-web-development-practices)
     - [Week 4: CSS Authoring (Sass)](#week-4-css-authoring-sass)
-    - [Week 5: CSS Architecture & Frameworks](#week-5-css-architecture--frameworks)
+    - [Week 5: CSS Architecture & Frameworks](#week-5-css-architecture-&-frameworks)
     - [Week 6: Marketing Websites](#week-6-marketing-websites)
-    - [Week 7–8: Studio (Midterm Project)](#week-7%E2%80%938-studio-midterm-project)
-    - [Week 9: Midterm Due & Critique](#week-9-midterm-due--critique)
-    - [Week 10: JavaScript Part 1](#week-10-javascript-part-1)
-    - [Week 11: JavaScript Part 2](#week-11-javascript-part-2)
-    - [Week 12: JavaScript Part 3](#week-12-javascript-part-3)
-    - [Week 13: Digital Products / Web Applications](#week-13-digital-products--web-applications)
-    - [Week 14–16: Studio (Final Project)](#week-14%E2%80%9316-studio-final-project)
-    - [Week 17: Final Due & Critique](#week-17-final-due--critique)
+    - [Week 7–9: Studio (Midterm Project)](#week-7%E2%80%939-studio-midterm-project)
+    - [Week 10: Midterm Due & Critique](#week-10-midterm-due-&-critique)
+    - [Week 11: JavaScript Part 1](#week-11-javascript-part-1)
+    - [Week 12: JavaScript Part 2](#week-12-javascript-part-2)
+    - [Week 13: JavaScript Part 3](#week-13-javascript-part-3)
+    - [Week 14: Digital Products / Web Applications](#week-14-digital-products--web-applications)
+    - [Week 15–16: Studio (Final Project)](#week-15%E2%80%9316-studio-final-project)
+    - [Week 17: Final Due & Critique](#week-17-final-due-&-critique)
 - [Extra Credit](#extra-credit)
   - [CodeSchool](#codeschool)
     - [Free Single Courses](#free-single-courses)
@@ -293,7 +294,7 @@ Students will go through the full development process of planning, prototyping, 
 
 Final projects due with presentations and critique
 
-## Extra Credit
+## Online Educational Resources
 ### CodeSchool
 [www.codeschool.com](https://www.codeschool.com)
 
